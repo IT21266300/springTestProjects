@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/point-of-sale.iml" filepath="$PROJECT_DIR$/.idea/point-of-sale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/point-of-sale/point-of-sale.iml" filepath="$PROJECT_DIR$/point-of-sale/point-of-sale.iml" />
     </modules>
   </component>
 </project>
